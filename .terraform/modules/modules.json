@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"app_sg","Source":"registry.terraform.io/terraform-aws-modules/security-group/aws","Version":"5.2.0","Dir":".terraform/modules/app_sg"},{"Key":"ec2_app_instance","Source":"registry.terraform.io/terraform-aws-modules/ec2-instance/aws","Version":"3.6.0","Dir":".terraform/modules/ec2_app_instance"}]}
