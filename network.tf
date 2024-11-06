@@ -136,6 +136,8 @@ resource "aws_eip" "ec2_app_instance_ip" {
   }
 }
 
+
+
 ### Criando Instancia EC2
 
 module "app_sg" {
